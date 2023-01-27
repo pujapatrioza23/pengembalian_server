@@ -1,0 +1,8 @@
+com\puja\peminjaman\service\VO\Anggota.class
+com\puja\peminjaman\service\VO\ResponseTemplateVO.class
+com\puja\peminjaman\service\entity\Peminjaman.class
+com\puja\peminjaman\service\controller\PeminjamanController.class
+com\puja\peminjaman\service\service\PeminjamanService.class
+com\puja\peminjaman\service\VO\Buku.class
+com\puja\peminjaman\service\PeminjamanServiceApplication.class
+com\puja\peminjaman\service\repository\PeminjamanRepository.class
